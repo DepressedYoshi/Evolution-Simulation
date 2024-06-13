@@ -25,6 +25,7 @@ public class CubeSpawner : MonoBehaviour
         SpawnCubes();
     }
 
+
     void InitializeCubePool()
     {
         cubes = new List<GameObject>();
